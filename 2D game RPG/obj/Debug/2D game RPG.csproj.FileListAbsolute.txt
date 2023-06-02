@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\bin\Debug\2D game RPG.exe.config
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\bin\Debug\2D game RPG.exe
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\bin\Debug\2D game RPG.pdb
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\_2D_game_RPG.Properties.Resources.resources
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.exe
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\2D game RPG.pdb
+D:\Projects\Visual Studio\2D game RPG\2D game RPG\obj\Debug\_2D_game_RPG.Form1.resources
